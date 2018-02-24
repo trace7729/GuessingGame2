@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GuessingGame2</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_title">example switch</string>
+    <string name="switch_message">"Switch set to"</string>
+    <string name="switch_summary">Turn this sound on or off</string>
+    <string name="image_description">Image of the current bird in the game</string>
+    <string name="buttonPlay">Play</string>
+    <string name="buttonTry">Try</string>
+
+    <string name="button_answer1">Button Answer 1</string>
+    <string name="button_answer2">Button Answer 3</string>
+    <string name="button_answer3">Button Answer 4</string>
+    <string name="button_answer4">Button Answer 5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
